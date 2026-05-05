@@ -1,2 +1,1 @@
-# git-lab
-echo "# Git Lab Experiment" > README.md
+This project demonstrates Git branching and merge conflict resolution.
